@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Writer Reforço Escolar University 02",
+  "description": "An interactive, AI-powered learning studio for kids, featuring a chat assistant, a dynamic content canvas, and a personal notebook. The app uses a modern 3-column layout to create an immersive educational experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
